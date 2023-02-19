@@ -1,4 +1,4 @@
-## Список задач (ToDo) на React.JS / React-todo
+## React-todo / Список задач (ToDo) на React.JS
 
 ### Стек / Stack:
 
