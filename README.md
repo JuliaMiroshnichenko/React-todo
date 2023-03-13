@@ -1,5 +1,7 @@
 ## React-todo / Список задач (ToDo) на React.JS
 
+## На Доработке! Deadline-Срок: ~ 18 марта
+
 ### Стек / Stack:
 
 * React.JS (useState, useReducer, useEffect)
